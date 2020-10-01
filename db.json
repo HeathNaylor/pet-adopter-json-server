@@ -1,0 +1,8 @@
+{
+  "pets": [
+    { "id": 1, "name": "Yoshi", "sex": "female" },
+    { "id": 2, "name": "Shadow", "sex": "male" },
+    { "id": 3, "name": "Zero", "sex": "female" },
+    { "id": 4, "name": "Griz", "sex": "male" }
+  ]
+}
